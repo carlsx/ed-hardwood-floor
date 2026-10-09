@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ED HARDWOOD FLOOR — sitemap.xml
+  EDIT: replace YOUR-DOMAIN.com with your real website address.
+
+  HOW TO ADD A NEW LOCATION PAGE LATER
+  1. Copy templates/location-page-template.html to a new folder, for example
+     hardwood-flooring-danbury-ct/index.html   (see README.md for the full steps)
+  2. Copy one <url> block below, paste it under the home page and change the address:
+       <loc>https://YOUR-DOMAIN.com/hardwood-flooring-danbury-ct/</loc>
+  3. Update <lastmod> to the date you published the page (YYYY-MM-DD).
+
+  Examples of location pages planned for the future (do not list a page here until it exists):
+     /hardwood-flooring-danbury-ct/
+     /hardwood-floor-refinishing-stamford-ct/
+     /hardwood-flooring-westchester-ny/
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://YOUR-DOMAIN.com/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>

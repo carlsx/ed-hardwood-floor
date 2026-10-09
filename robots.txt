@@ -1,0 +1,8 @@
+# ED Hardwood Floor — robots.txt
+# EDIT: replace YOUR-DOMAIN.com with your real website address (same one used in index.html and sitemap.xml)
+
+User-agent: *
+Allow: /
+Disallow: /templates/
+
+Sitemap: https://YOUR-DOMAIN.com/sitemap.xml

@@ -1,0 +1,14 @@
+{
+  "name": "ED Hardwood Floor",
+  "short_name": "ED Hardwood",
+  "description": "Hardwood floor installation, refinishing, repair and restoration in Connecticut and New York.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FBF9F5",
+  "theme_color": "#2A1C12",
+  "icons": [
+    { "src": "images/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "images/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
